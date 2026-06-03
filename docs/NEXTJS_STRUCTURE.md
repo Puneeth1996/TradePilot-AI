@@ -1,0 +1,13 @@
+src/
+  app/
+  components/
+  features/
+    dashboard/
+    journal/
+    watchlist/
+    goals/
+    analytics/
+  services/
+  hooks/
+  lib/
+  types/
