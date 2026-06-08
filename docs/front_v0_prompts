@@ -1,0 +1,155 @@
+from datetime import datetime
+
+# Get today's date and time
+
+today = datetime.now()
+print(f"Today's date and time: {today}")
+
+Prompt 1
+
+Design a modern AI-powered stock trading platform called TradePilot AI.
+
+Theme:
+Dark mode professional trading terminal.
+
+Technology:
+Next.js
+TypeScript
+TailwindCSS
+shadcn/ui
+
+Design Requirements:
+
+Responsive desktop-first layout.
+
+Style inspiration:
+TradingView
+Bloomberg Terminal
+Robinhood
+Linear
+
+Color Palette:
+Dark charcoal background
+Subtle gradients
+Green for gains
+Red for losses
+Blue for AI insights
+
+Navigation:
+
+Left Sidebar
+
+- Dashboard
+- Portfolio
+- Trade Journal
+- Watchlist
+- Analytics
+- AI Insights
+- Goals
+- Settings
+
+Top Header
+
+- Search Stocks
+- Portfolio Value
+- Notifications
+- User Profile
+
+Generate complete application shell.
+
+Use reusable components.
+
+Do not generate business logic.
+Focus only on layout and design system.
+
+Second Prompt
+
+Generate Dashboard
+
+Create the TradePilot AI Dashboard page.
+
+Theme:
+Professional trading workstation.
+
+Cards:
+
+1. Total Portfolio Value
+2. Daily P/L
+3. Weekly P/L
+4. Monthly Growth
+5. Goal Progress
+6. Win Rate
+
+Charts:
+
+Portfolio Growth Chart
+
+Daily P/L Chart
+
+Goal Progress Chart
+
+Tables:
+
+Recent Trades
+
+Columns:
+
+- Symbol
+- Entry
+- Exit
+- Profit
+- Date
+
+Watchlist
+
+Columns:
+
+- Symbol
+- Price
+- Change %
+- Score
+- Recommendation
+
+Responsive layout.
+
+Use:
+shadcn/ui
+TailwindCSS
+Recharts
+
+Generate production-ready Next.js code.
+
+Third Prompt
+
+Generate Watchlist
+
+Create a professional watchlist page.
+
+Features:
+
+Table Columns:
+
+- Symbol
+- Company
+- Price
+- Daily Change
+- Weekly Change
+- Score
+- AI Recommendation
+- Confidence
+
+Actions:
+
+- Add Stock
+- Remove Stock
+- View Analysis
+
+Top Summary:
+
+- Stocks Tracked
+- Buy Signals
+- Watch Signals
+
+Responsive.
+
+Dark trading terminal design.

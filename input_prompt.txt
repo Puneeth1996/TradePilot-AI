@@ -1,0 +1,611 @@
+
+
+
+
+
+
+
+Third Prompt
+
+Generate Watchlist
+
+Create a professional watchlist page.
+
+Features:
+
+Table Columns:
+
+- Symbol
+- Company
+- Price
+- Daily Change
+- Weekly Change
+- Score
+- AI Recommendation
+- Confidence
+
+Actions:
+
+- Add Stock
+- Remove Stock
+- View Analysis
+
+Top Summary:
+
+- Stocks Tracked
+- Buy Signals
+- Watch Signals
+
+Responsive.
+
+Dark trading terminal design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fourth Prompt
+
+Generate Trade Journal
+
+This is your most valuable feature.
+
+Create a trade journal page.
+
+Features:
+
+Trade Entry Form
+
+Fields:
+
+- Symbol
+- Entry Price
+- Exit Price
+- Quantity
+- Setup Type
+- Notes
+- Emotions
+
+Table:
+
+Trade History
+
+Columns:
+
+- Symbol
+- Entry
+- Exit
+- Profit
+- Setup
+- Notes
+
+Statistics:
+
+- Win Rate
+- Average Gain
+- Average Loss
+- Profit Factor
+
+Dark theme.
+Professional design.
+
+
+
+
+
+
+
+
+
+
+Fifth Prompt
+
+Generate Goals Page
+
+Create a financial goal tracking page.
+
+Goals:
+
+- Daily
+- Weekly
+- Monthly
+- Yearly
+
+Metrics:
+
+- Goal Progress
+- Goal Velocity
+- ETA
+
+Charts:
+
+- Goal Completion Trend
+- Monthly Progress
+
+Cards:
+
+- Current Capital
+- Target Capital
+- Remaining Amount
+
+Use progress bars and visual indicators.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Give me one large prompt to use instead of seaparte three prompts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a complete professional AI-powered stock trading platform called TradePilot AI.
+
+Technology Requirements:
+
+* Next.js 15
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* Recharts
+* Responsive Design
+* Dark Theme
+* Desktop-first
+* Production-quality UI
+
+Design Inspiration:
+
+* TradingView
+* Bloomberg Terminal
+* Robinhood
+* Linear
+* Vercel Dashboard
+
+Do NOT implement backend logic.
+
+Generate only frontend UI with mock data.
+
+Use reusable components and feature-first architecture.
+
+---
+
+APPLICATION LAYOUT
+
+Left Sidebar Navigation
+
+* Dashboard
+* Portfolio
+* Watchlist
+* Trade Journal
+* Goals
+* Analytics
+* AI Insights
+* Research
+* Scanner
+* Settings
+
+Top Navigation
+
+* Global Stock Search
+* Notifications
+* Portfolio Value
+* User Profile
+* Theme Toggle
+
+Theme
+
+* Dark charcoal background
+* Professional trading terminal style
+* Green for profits
+* Red for losses
+* Blue for AI insights
+* Clean typography
+* Modern card design
+* Subtle gradients
+
+---
+
+DASHBOARD PAGE
+
+Create a comprehensive dashboard.
+
+Top KPI Cards
+
+* Total Portfolio Value
+* Daily Profit/Loss
+* Weekly Profit/Loss
+* Monthly Growth
+* Goal Progress
+* Win Rate
+
+Charts
+
+* Portfolio Growth Chart
+* Daily Profit Trend
+* Monthly Growth Trend
+* Goal Progress Chart
+
+Tables
+
+Recent Trades
+
+Columns:
+
+* Symbol
+* Entry
+* Exit
+* Profit
+* Date
+* Setup
+
+Watchlist Preview
+
+Columns:
+
+* Symbol
+* Price
+* Daily Change
+* AI Score
+* Recommendation
+
+Sidebar Widgets
+
+* Market Status
+* Upcoming Earnings
+* Top Movers
+
+---
+
+WATCHLIST PAGE
+
+Create a professional watchlist page.
+
+Summary Cards
+
+* Total Stocks Tracked
+* Buy Signals
+* Watch Signals
+* Average Portfolio Score
+
+Filters
+
+* Search
+* Sector
+* Recommendation
+* Confidence Level
+
+Watchlist Table
+
+Columns:
+
+* Symbol
+* Company
+* Current Price
+* Daily Change
+* Weekly Change
+* Monthly Change
+* Volume
+* Relative Strength
+* AI Score
+* Recommendation
+* Confidence
+
+Actions
+
+* Add Stock
+* Remove Stock
+* Edit Notes
+* View Analysis
+* Add To Portfolio
+
+Stock Detail Drawer
+
+Display:
+
+* Price Summary
+* Technical Signals
+* AI Recommendation
+* Risk Rating
+* Notes
+
+---
+
+TRADE JOURNAL PAGE
+
+Create a professional trading journal.
+
+Trade Entry Form
+
+Fields
+
+* Symbol
+* Entry Date
+* Exit Date
+* Entry Price
+* Exit Price
+* Quantity
+* Trade Type
+* Setup Type
+* Risk Level
+* Notes
+* Emotions
+* Lessons Learned
+
+Trade History Table
+
+Columns
+
+* Symbol
+* Entry
+* Exit
+* Quantity
+* Profit/Loss
+* Setup
+* Trade Rating
+* Notes
+
+Statistics Cards
+
+* Total Trades
+* Win Rate
+* Average Gain
+* Average Loss
+* Profit Factor
+* Recovery Rate
+
+Charts
+
+* Profit Curve
+* Monthly Trade Performance
+* Setup Performance
+* Win/Loss Distribution
+
+Insights Panel
+
+Display:
+
+* Most Profitable Setup
+* Most Common Mistake
+* Best Trading Day
+* Best Trading Time
+
+---
+
+GOALS PAGE
+
+Create a financial goal management system.
+
+Goal Types
+
+* Daily Goal
+* Weekly Goal
+* Monthly Goal
+* Quarterly Goal
+* Yearly Goal
+
+Summary Cards
+
+* Current Capital
+* Target Capital
+* Remaining Amount
+* Goal Progress Percentage
+
+Metrics
+
+* Goal Progress
+* Goal Velocity
+* Estimated Completion Date
+* Average Monthly Growth
+
+Charts
+
+* Goal Completion Trend
+* Monthly Progress Trend
+* Capital Growth Curve
+
+Progress Components
+
+* Circular Progress Indicators
+* Progress Bars
+* Goal Milestone Timeline
+
+Goal Table
+
+Columns
+
+* Goal
+* Start Value
+* Target Value
+* Current Value
+* Progress
+* ETA
+* Status
+
+---
+
+ANALYTICS PAGE
+
+Create a professional trading analytics dashboard.
+
+KPIs
+
+* Portfolio Return
+* Risk Adjusted Return
+* Max Drawdown
+* Sharpe Ratio
+* Win Rate
+* Profit Factor
+
+Charts
+
+* Equity Curve
+* Portfolio Growth
+* Monthly Returns
+* Sector Allocation
+* Performance Heatmap
+
+Tables
+
+* Top Winners
+* Top Losers
+* Best Performing Strategies
+
+---
+
+AI INSIGHTS PAGE
+
+Create an AI trading assistant interface.
+
+Features
+
+* Chat Interface
+* Recommendation Cards
+* Market Analysis
+* Portfolio Review
+* Trade Review
+
+Example Questions
+
+* Why is ARM bullish?
+* Review my last 20 trades.
+* Find breakout stocks.
+* What is my biggest mistake?
+
+AI Response Cards
+
+* Recommendation
+* Confidence
+* Risk Level
+* Supporting Evidence
+
+---
+
+SCANNER PAGE
+
+Create a breakout stock scanner.
+
+Filters
+
+* Volume Spike
+* Relative Strength
+* RSI
+* Market Cap
+* Sector
+
+Results Table
+
+* Symbol
+* Price
+* Volume
+* RSI
+* Momentum Score
+* Breakout Score
+* Confidence
+
+---
+
+RESEARCH PAGE
+
+Create a stock research workspace.
+
+Features
+
+* Stock Overview
+* Fundamentals
+* Technical Analysis
+* Earnings History
+* News Feed
+* AI Summary
+
+Tabs
+
+* Overview
+* Technicals
+* Fundamentals
+* Earnings
+* News
+* AI Analysis
+
+---
+
+SETTINGS PAGE
+
+Features
+
+* User Profile
+* Risk Preferences
+* Portfolio Settings
+* AI Settings
+* Theme Settings
+* Notification Settings
+
+---
+
+Technical Requirements
+
+Generate:
+
+* Complete page layouts
+* Reusable components
+* Mock data
+* Loading states
+* Empty states
+* Mobile responsive layouts
+* Feature-first folder structure
+
+Do not generate backend code.
+
+Generate production-quality Next.js + TypeScript + Tailwind + shadcn/ui frontend.
